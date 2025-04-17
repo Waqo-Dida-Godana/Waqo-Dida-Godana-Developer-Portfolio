@@ -40,7 +40,6 @@
 
 - 🎓 **Kenya Certificate of Secondary Education (K.C.S.E)**  
   Arabuko Forest High School, Kilifi (2013 – 2016)  
-  Mean Score: B Minus (B−)
 
 - 🎓 **Kenya Certificate of Primary Education (K.C.P.E)**  
   Al-Hidaya Muslim Primary School, Marsabit (2005 – 2012)
@@ -48,7 +47,7 @@
 - 👨‍🏫 Computer Studies Teacher at Marsabit Islamic Institute  
 - 🎮 Content Creator @ [WDG Gaming](https://youtube.com/@wdg_gaming)  
 - 🌐 Building [E-Maganatti](https://e.maganatti.com) – A Local E-Commerce Platform  
-- 💼 Founder of [Waxzstarways Technologies Solution Ltd](https://waxzstarways.co.ke)  
+- 💼 Founder of [Maganatti Tech Solution Ltd](https://maganatti.com)  
 - 🧑‍💻 Freelancer, Consultant, and IT Support Expert
 
 ---
