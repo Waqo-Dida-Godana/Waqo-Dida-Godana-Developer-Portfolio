@@ -79,11 +79,11 @@
 <p align="center">
 
 <a href="https://waqo-dida-godana.github.io/WDG-Weather-App" target="_blank">
-  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/weather-app.png" width="200px" alt="WDG Weather App" title="WDG Weather App - Real-time weather data using HTML, CSS & JS"/>
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/weather-app.PNG" width="200px" alt="WDG Weather App" title="WDG Weather App - Real-time weather data using HTML, CSS & JS"/>
 </a>
 
 <a href="https://waqo-dida-godana.github.io/number-guessing-game" target="_blank">
-  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/number-guessing.png" width="200px" alt="Number Guessing Game" title="Number Guessing Game - Fun and interactive guessing game"/>
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/number-guessing.PNG" width="200px" alt="Number Guessing Game" title="Number Guessing Game - Fun and interactive guessing game"/>
 </a>
 
 <a href="https://waqo-dida-godana.github.io/Simple-Calculator" target="_blank">
