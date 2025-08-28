@@ -24,72 +24,68 @@
 
 ---
 
-## 🔥 About Me & Skills
+### 🔥 About Me
 
-| About Me | Skills & Tools |
-| -------- | -------------- |
-| 🎓 BSc IT, Mount Kenya University (2017–2021) | **Languages:** HTML5, CSS3, JavaScript, PHP, SQL |
-| 📡 CCNA Certified (2018–2021) | **Frameworks:** React, Vue.js, Bootstrap 4, Node.js |
-| 🎓 Diploma in Technical Trainer Education (2023–2024) | **Tools:** Git, GitHub, VS Code, Figma, Canva, WordPress |
-| 👨‍🏫 TVET Level IV Certified IT Trainer — Marsabit Islamic Institute | **Design:** UI/UX & Graphic Design |
-| 🌐 Building [E-Maganatti](https://e.maganatti.com) |  |
-| 💼 Founder & Lead Developer — [Maganatti Tech Solution Ltd](https://maganatti.com) |  |
-| 🎮 Content Creator — [WDG Gaming](https://youtube.com/@wdg_gaming) |  |
-| 🧑‍💻 Freelancer & IT Consultant |  |
+- 🎓 **BSc in Information Technology** — Mount Kenya University (2017 – 2021)  
+- 📡 **CCNA Certified** — MKU Cisco Campus (2018 – 2021)  
+- 🎓 **Diploma in Technical Trainer Education** — Kenya School of TVET (2023 – 2024)  
+- 👨‍🏫 **TVET Level IV Certified IT Trainer** — Marsabit Islamic Institute  
+- 🌐 Building [E-Maganatti](https://e.maganatti.com)  
+- 💼 Founder & Lead Developer — [Maganatti Tech Solution Ltd](https://maganatti.com)  
+- 🎮 Content Creator — [WDG Gaming](https://youtube.com/@wdg_gaming)  
+- 🧑‍💻 Freelancer, Consultant & IT Support Expert  
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waqo-Dida-Godana&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqo-Dida-Godana&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Waqo-Dida-Godana&theme=radical" width="48%" />
-  <img src="https://komarev.com/ghpvc/?username=Waqo-Dida-Godana&style=flat-square&label=Profile%20Views&color=0e75b6&labelColor=555555" width="48%" />
-</p>
+**Languages:** HTML5, CSS3, JavaScript, PHP, SQL  
+**Frameworks & Libraries:** React, Vue.js, Bootstrap 4, Node.js  
+**Tools & Design:** Git, GitHub, VS Code, Figma, Canva, WordPress  
+**Design:** UI/UX Design, Graphic Design  
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
 <p align="center">
   <a href="https://waqo-dida-godana.github.io/WDG-Weather-App" target="_blank">
-    <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/weather-app.PNG" width="140px" alt="WDG Weather App" title="WDG Weather App"/>
+    <img src="https://img.shields.io/badge/WDG-Weather_App-61DAFB?style=for-the-badge&logo=appveyor" alt="WDG Weather App"/>
   </a>
   <a href="https://waqo-dida-godana.github.io/number-guessing-game" target="_blank">
-    <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/number-guessing.PNG" width="140px" alt="Number Guessing Game" title="Number Guessing Game"/>
+    <img src="https://img.shields.io/badge/Number-Guessing_Game-F7DF1E?style=for-the-badge&logo=javascript" alt="Number Guessing Game"/>
   </a>
   <a href="https://waqo-dida-godana.github.io/Simple-Calculator" target="_blank">
-    <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/calculator.png" width="140px" alt="Simple Calculator" title="Simple Calculator"/>
+    <img src="https://img.shields.io/badge/Simple-Calculator-777BB4?style=for-the-badge&logo=php" alt="Simple Calculator"/>
   </a>
   <a href="https://waqo-dida-godana.github.io/Login-form" target="_blank">
-    <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/login-form.png" width="140px" alt="Login Form" title="Login Form"/>
+    <img src="https://img.shields.io/badge/Login-Form-563D7C?style=for-the-badge&logo=bootstrap" alt="Login Form"/>
   </a>
   <a href="https://waqo-dida-godana.github.io/dida-resume" target="_blank">
-    <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/resume.png" width="140px" alt="React Resume" title="React Resume"/>
+    <img src="https://img.shields.io/badge/React-Resume-61DAFB?style=for-the-badge&logo=react" alt="React Resume"/>
   </a>
 </p>
 
-<p align="center"><i>Click images to view live demos or GitHub repositories.</i></p>
+<p align="center"><i>Click badges to view live demos or repositories</i></p>
 
 ---
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 
 - **Founder & Lead Developer** — Maganatti Tech Solution Ltd (2017 – Present)  
 - **Freelancer & IT Consultant** — Web development, IT support, graphic design  
-- **TVET Level IV Certified IT Trainer** — Marsabit Islamic Institute (2021 – Present)
+- **TVET Level IV Certified IT Trainer** — Marsabit Islamic Institute (2021 – Present)  
 
 ---
 
-## 📬 Contact Me
+### 📊 GitHub Stats & Contributions
 
-- 🌐 [Portfolio](https://dida.maganatti.com)  
-- 📧 [Email Me](mailto:waqogodana98@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/waqo-dida-godana)  
-- 📱 [Instagram](https://www.instagram.com/waxzstarways)  
-- 🐦 [Twitter](https://twitter.com/dev_dida)  
-- 🎮 [YouTube](https://youtube.com/@wdg_gaming)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waqo-Dida-Godana&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqo-Dida-Godana&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Waqo-Dida-Godana&theme=radical" width="48%" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=Waqo-Dida-Godana&style=flat-square&label=Profile%20Views&color=0e75b6&labelColor=555555" width="48%" alt="Profile Views"/>
+</p>
