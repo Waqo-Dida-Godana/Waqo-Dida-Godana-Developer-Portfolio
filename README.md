@@ -49,24 +49,40 @@
 ### 📂 Featured Projects
 
 <p align="center">
-  <a href="https://waqo-dida-godana.github.io/WDG-Weather-App" target="_blank">
-    <img src="https://img.shields.io/badge/WDG-Weather_App-61DAFB?style=for-the-badge&logo=appveyor" alt="WDG Weather App"/>
-  </a>
-  <a href="https://waqo-dida-godana.github.io/number-guessing-game" target="_blank">
-    <img src="https://img.shields.io/badge/Number-Guessing_Game-F7DF1E?style=for-the-badge&logo=javascript" alt="Number Guessing Game"/>
-  </a>
-  <a href="https://waqo-dida-godana.github.io/Simple-Calculator" target="_blank">
-    <img src="https://img.shields.io/badge/Simple-Calculator-777BB4?style=for-the-badge&logo=php" alt="Simple Calculator"/>
-  </a>
-  <a href="https://waqo-dida-godana.github.io/Login-form" target="_blank">
-    <img src="https://img.shields.io/badge/Login-Form-563D7C?style=for-the-badge&logo=bootstrap" alt="Login Form"/>
-  </a>
-  <a href="https://waqo-dida-godana.github.io/dida-resume" target="_blank">
-    <img src="https://img.shields.io/badge/React-Resume-61DAFB?style=for-the-badge&logo=react" alt="React Resume"/>
-  </a>
+
+<a href="https://waqo-dida-godana.github.io/WDG-Weather-App" target="_blank" title="WDG Weather App - Real-time weather data using HTML, CSS & JS">
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/weather-app.PNG" width="200px" alt="WDG Weather App"/>
+  <br>
+  <img src="https://img.shields.io/badge/WDG-Weather_App-61DAFB?style=for-the-badge&logo=appveyor" alt="WDG Weather App Badge"/>
+</a>
+
+<a href="https://waqo-dida-godana.github.io/number-guessing-game" target="_blank" title="Number Guessing Game - Fun and interactive guessing game">
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/number-guessing.PNG" width="200px" alt="Number Guessing Game"/>
+  <br>
+  <img src="https://img.shields.io/badge/Number-Guessing_Game-F7DF1E?style=for-the-badge&logo=javascript" alt="Number Guessing Badge"/>
+</a>
+
+<a href="https://waqo-dida-godana.github.io/Simple-Calculator" target="_blank" title="Simple Calculator - HTML, CSS, PHP, JavaScript calculator">
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/calculator.png" width="200px" alt="Simple Calculator"/>
+  <br>
+  <img src="https://img.shields.io/badge/Simple-Calculator-777BB4?style=for-the-badge&logo=php" alt="Simple Calculator Badge"/>
+</a>
+
+<a href="https://waqo-dida-godana.github.io/Login-form" target="_blank" title="Login Form - Responsive form with validation using HTML, CSS & Bootstrap 4">
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/login-form.png" width="200px" alt="Login Form"/>
+  <br>
+  <img src="https://img.shields.io/badge/Login-Form-563D7C?style=for-the-badge&logo=bootstrap" alt="Login Form Badge"/>
+</a>
+
+<a href="https://waqo-dida-godana.github.io/dida-resume" target="_blank" title="React Resume - My personal resume built with React">
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/resume.png" width="200px" alt="React Resume"/>
+  <br>
+  <img src="https://img.shields.io/badge/React-Resume-61DAFB?style=for-the-badge&logo=react" alt="React Resume Badge"/>
+</a>
+
 </p>
 
-<p align="center"><i>Click badges to view live demos or repositories</i></p>
+<p align="center"><i>Hover on images for previews, click badges to view live demos or repositories</i></p>
 
 ---
 
