@@ -79,23 +79,23 @@
 <p align="center">
 
 <a href="https://waqo-dida-godana.github.io/WDG-Weather-App" target="_blank">
-  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/weather-app.PNG" width="200px" alt="WDG Weather App" title="WDG Weather App - Real-time weather data using HTML, CSS & JS"/>
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/weather-app.PNG" width="200px" alt="WDG Weather App" title="WDG Weather App - Real-time weather data using HTML, CSS & JS"/>
 </a>
 
 <a href="https://waqo-dida-godana.github.io/number-guessing-game" target="_blank">
-  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/number-guessing.PNG" width="200px" alt="Number Guessing Game" title="Number Guessing Game - Fun and interactive guessing game"/>
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/number-guessing.PNG" width="200px" alt="Number Guessing Game" title="Number Guessing Game - Fun and interactive guessing game"/>
 </a>
 
 <a href="https://waqo-dida-godana.github.io/Simple-Calculator" target="_blank">
-  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/calculator.png" width="200px" alt="Simple Calculator" title="Simple Calculator - HTML, CSS, PHP, JavaScript calculator"/>
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/calculator.png" width="200px" alt="Simple Calculator" title="Simple Calculator - HTML, CSS, PHP, JavaScript calculator"/>
 </a>
 
 <a href="https://waqo-dida-godana.github.io/Login-form" target="_blank">
-  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/login-form.png" width="200px" alt="Login Form" title="Login Form - Responsive form with validation using HTML, CSS & Bootstrap 4"/>
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/login-form.png" width="200px" alt="Login Form" title="Login Form - Responsive form with validation using HTML, CSS & Bootstrap 4"/>
 </a>
 
 <a href="https://waqo-dida-godana.github.io/dida-resume" target="_blank">
-  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana/main/assets/screenshots/resume.png" width="200px" alt="React Resume" title="React Resume - My personal resume built with React"/>
+  <img src="https://raw.githubusercontent.com/Waqo-Dida-Godana/Waqo-Dida-Godana-Developer-Portfolio/main/assets/screenshots/resume.png" width="200px" alt="React Resume" title="React Resume - My personal resume built with React"/>
 </a>
 
 </p>
@@ -134,8 +134,8 @@
 
 ---
 
-### 📈 Visitor Counter
+### 📈 Profile Views
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Waqo-Dida-Godana" alt="Visitor Badge"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=Waqo-Dida-Godana&label=Profile%20Views)
 </p>
